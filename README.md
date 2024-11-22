@@ -65,7 +65,6 @@
 ## Connect with me 🚀
 
 <div align="center">
-https://github.com/KleyderCodes/kleyderCodes
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/kleyder-dev-a5a782300" target="_blank">
